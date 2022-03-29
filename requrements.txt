@@ -1,0 +1,28 @@
+autopep8 @ file:///opt/conda/conda-bld/autopep8_1639166893812/work
+bcrypt @ file:///opt/concourse/worker/volumes/live/21ca4d64-ac97-4226-79f4-dd4218303393/volume/bcrypt_1597936173714/work
+blinker==1.4
+certifi==2021.10.8
+cffi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/croot-2p6q7e2r/cffi_1642701115063/work
+click==8.0.3
+dnspython==1.16.0
+email-validator @ file:///tmp/build/80754af9/email-validator_1623674793554/work
+Flask @ file:///tmp/build/80754af9/flask_1634118196080/work
+Flask-Bcrypt @ file:///Users/ktietz/demo/mc3/conda-bld/flask-bcrypt_1630648582424/work
+Flask-Login @ file:///Users/ktietz/demo/mc3/conda-bld/flask-login_1629875349535/work
+Flask-Mail==0.9.1
+Flask-SQLAlchemy==2.5.1
+Flask-WTF==1.0.0
+greenlet==1.1.2
+idna @ file:///tmp/build/80754af9/idna_1637925883363/work
+itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
+Jinja2==3.0.3
+MarkupSafe @ file:///opt/concourse/worker/volumes/live/c9141381-1dba-485b-7c96-99007bf7bcfd/volume/markupsafe_1621528150226/work
+olefile @ file:///Users/ktietz/demo/mc3/conda-bld/olefile_1629805411829/work
+Pillow==8.4.0
+pycodestyle @ file:///tmp/build/80754af9/pycodestyle_1636635402688/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+SQLAlchemy==1.4.31
+toml @ file:///tmp/build/80754af9/toml_1616166611790/work
+Werkzeug==2.0.3
+WTForms==3.0.1
